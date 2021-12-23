@@ -1,0 +1,9 @@
+{
+  "name": "lab2-sit",
+  "version": "0.0.0",
+  "description": "Lab2SIT",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
